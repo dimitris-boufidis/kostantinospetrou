@@ -1,0 +1,19 @@
+body {text-align: center;}
+
+p{
+	font-size: 22px;
+	margin-top: 60px;
+}
+
+h2{color: blue;}
+
+p{color: blue; }
+
+h4{color: red; font-size: 30px; }
+
+.logia {margin-top: 150px; background-color: grey;} 
+
+.omada {
+
+	color: red;font-size: 25px;
+}
